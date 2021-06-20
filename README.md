@@ -1,0 +1,5 @@
+- 👋 Hola, soy Junior C o It'sNotJs
+- 👀 Actualmente trabajo como backend developer en Santiago de chile
+- 🌱 Enfocado en aprender Ingles , desarrollo de apps mobiles con kotlin y del mundo Crypto. 
+- 💞️ Me gustaria participar en proyectos donde se use, node, react, vue, laravel, kotlin o similares.
+- 📫 para comtactarme jjcmjavascript@gmail.com
