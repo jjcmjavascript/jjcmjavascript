@@ -1,4 +1,4 @@
-- 👋 Hola, soy Junior o It'sNotJs
+- 👋 Hola, soy Junior
 - 👀 Actualmente trabajo como full stack developer
 - 🌱 Enfocado en aprender Ingles, desarrollo de apps mobiles con kotlin y Flutter. 
 - 💞️ Me gustaria participar en proyectos donde se use, node, react, vue, laravel, kotlin o similares.
